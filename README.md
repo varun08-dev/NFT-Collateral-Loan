@@ -9,6 +9,9 @@ NFT Collateral Loan is a smart contract-based decentralized lending platform whe
 ## Contract Address
 0x12aee1653ce16270cb8d293004be3f6fc8bfe239
 
+<img width="1018" alt="Screenshot 2024-12-21 at 2 28 52 PM" src="https://github.com/user-attachments/assets/ddc7c790-ac8f-4e47-aa27-fc6a270d78a6" />
+
+
 ## Project Vision
 Our vision is to provide an easy and decentralized way for NFT holders to access liquidity without needing to sell their valuable digital assets. With the rise of NFTs, it becomes increasingly important to offer new financial products and services that allow users to utilize their assets for loans. By using blockchain technology, NFT Collateral Loan ensures trustless, transparent, and secure transactions between borrowers and lenders.
 
